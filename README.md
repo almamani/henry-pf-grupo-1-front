@@ -1,4 +1,4 @@
-![logo MariArt](./public/logoReadme.png)
+> ## PROYECTO THE FANCY BOX
 
 > ### Descripción del Proyecto
 
@@ -10,11 +10,7 @@
 - Mantener una comunicación directa con cuidadores mediante un sistema de chat en tiempo real.
 - Acceso a una bitácora con fotos, videos y posteos sobre la estadía del huésped gatuno, actualizados por su cuidador.
 
-##### GitHub Pages Front: <https://github.com/courreges-do/henry-pf-grupo-1-front>
-
-##### GitHub Pages Back: <https://github.com/courreges-do/henry-pf-grupo-1-front>
-
-##### Documentación Front: [Enlace a la documentación en PDF](./public/manual_usuario.pdf)
+##### GitHub Pages Front: <https://github.com/almamani/henry-pf-grupo-1-front>
 
 > ### Herramientas utilizadas
 
@@ -27,7 +23,7 @@
 
 > ### Pasos para ejecutar el proyecto localmente
 
-1. Clonar Repositorio: git clone <https://github.com/courreges-do/henry-pf-grupo-1-front>
+1. Clonar Repositorio: git clone <https://github.com/almamani/henry-pf-grupo-1-front>
 2. Dentro de la carpeta del proyecto ejecutar: npm install
 3. Posteriormente ejecutar: npm run dev
 
