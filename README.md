@@ -27,7 +27,7 @@
 2. Dentro de la carpeta del proyecto ejecutar: npm install
 3. Posteriormente ejecutar: npm run dev
 
-### Configuración de Variables de Entorno
+> ### Configuración de Variables de Entorno
 
 Para ejecutar este proyecto, es necesario crear un archivo .env en el directorio raíz con el nombre .env.local y agregar lo siguiente:
 
